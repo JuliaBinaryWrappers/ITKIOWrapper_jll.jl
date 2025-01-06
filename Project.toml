@@ -1,6 +1,6 @@
 name = "ITKIOWrapper_jll"
 uuid = "b6265aa4-802f-522b-a8eb-4519ac77ab09"
-version = "1.0.0+2"
+version = "1.0.0+3"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -10,7 +10,7 @@ ITK_jll = "3324d3a8-621a-5aaa-97fa-c3bc8dfc0481"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
-JLLWrappers = "1.2.0"
+JLLWrappers = "1.7.0"
 julia = "1.6"
 libcxxwrap_julia_jll = "0.13.2"
 Libdl = "< 0.0.1, 1"
