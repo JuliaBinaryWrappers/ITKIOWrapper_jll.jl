@@ -1,424 +1,504 @@
 [[ITKIOWrapper]]
 arch = "aarch64"
-git-tree-sha1 = "e219a936bf96ed54bf0ccc27fcd461786b1a9efd"
+git-tree-sha1 = "eea79bf3d7a131ca1aca388e1694631a92d1fa35"
 julia_version = "1.10.0"
 os = "macos"
 
     [[ITKIOWrapper.download]]
-    sha256 = "6a4d8d71996c3480b3c934fab750d2a51f231c4941348f3d02b5fb66dc322046"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "7b8591c44a1a4421e8e1880c262ccbb92f5dea2b96b22a58b53150744fe45103"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[ITKIOWrapper]]
 arch = "aarch64"
-git-tree-sha1 = "1c74c9382fbd72e41c4367e6e12968ae01db0840"
+git-tree-sha1 = "0fbbfcbc19db2fc69592f19ef71811d9b2bb26c9"
 julia_version = "1.11.1"
 os = "macos"
 
     [[ITKIOWrapper.download]]
-    sha256 = "811e9d9021a9a3c277962a5a16045906a764c0fe4c1907d02cba078531ae1c06"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
+    sha256 = "1f00536970e412ee0e41fafa113d6bbd7efc40bad69bf5a214b340907a9c140f"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[ITKIOWrapper]]
 arch = "aarch64"
-git-tree-sha1 = "0f624aab07cdf5b899eb500520dfc7cc10481c8e"
+git-tree-sha1 = "f9217535d315c53534741084b66f45f94bf8f33e"
 julia_version = "1.12.0"
 os = "macos"
 
     [[ITKIOWrapper.download]]
-    sha256 = "c46d87a946c81dfce5e91b6a616525a02b6bbd1098b8ce7d0241f688fe452be9"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "22e75092477b115b31ac01515e6748e371beed8e81f60e5f5abb84dbd344f29c"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[ITKIOWrapper]]
 arch = "aarch64"
-git-tree-sha1 = "a95bc1656f73856dd2cdd0ca423d4d4abc5291a1"
+git-tree-sha1 = "f10ca60f08ab41b8146e909d4087b6828bbc6e45"
 julia_version = "1.13.0"
 os = "macos"
 
     [[ITKIOWrapper.download]]
-    sha256 = "3ce2ddc08da78852d4fb23e557c24e1d99c677a8147eb1c838567d9a56a05d80"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.aarch64-apple-darwin-julia_version+1.13.0.tar.gz"
+    sha256 = "9290e942db0a65e6c40ab0de40d5aba322400db54c3e1f2068ab378844956a34"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.aarch64-apple-darwin-julia_version+1.13.0.tar.gz"
 [[ITKIOWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5643925c2c1f42536ad5d26ce9c0b020c3df761f"
-julia_version = "1.10.0"
-libc = "glibc"
-os = "linux"
-
-    [[ITKIOWrapper.download]]
-    sha256 = "f07363851f639120efac1aef9feada64cf99f2bd919aea482d60befc1982c80f"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
-[[ITKIOWrapper]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "221f5e5d1c750a82c000a69d7c17a0ec11d66452"
-julia_version = "1.11.1"
-libc = "glibc"
-os = "linux"
-
-    [[ITKIOWrapper.download]]
-    sha256 = "b1f374edc041dcaa873ef2d96fd99fe9563d0fb52346e1503e585f2fd99eb703"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.aarch64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
-[[ITKIOWrapper]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "cb213a57598c911b1f513a3ed621ffbf3add8c7e"
-julia_version = "1.12.0"
-libc = "glibc"
-os = "linux"
-
-    [[ITKIOWrapper.download]]
-    sha256 = "59b9a58fa84b3221581c9ebaa1acfa51ed70580c399404d3fb672d4d96addde6"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.aarch64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
-[[ITKIOWrapper]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "2477aaa7a549b69a7a8072c1f9697f7ecb6ddd4d"
-julia_version = "1.13.0"
-libc = "glibc"
-os = "linux"
-
-    [[ITKIOWrapper.download]]
-    sha256 = "545b23c9463874a50d95d5cd84e5487bfc4a91551c847ef0da988281b948866f"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.aarch64-linux-gnu-cxx03-julia_version+1.13.0.tar.gz"
-[[ITKIOWrapper]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "e8b1b8bd19f344c37191d57b7a0d9cb95c1369d8"
+git-tree-sha1 = "6878263b3f50c6d8820f03c96080925353d1b2e9"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[ITKIOWrapper.download]]
-    sha256 = "63e77b25aa90e3a6f337bcbf899f1c7da1dcddabf8323751752a47ab9481db74"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "9ea2737c4292a6d87802a3d26226c7af49297c6c87614fc78d36ca33f28c88cb"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[ITKIOWrapper]]
 arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "8980800a51c8d70b1e8821937332d21827a939c4"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c12348539770c76a8f10870d2c93c30e738949cb"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[ITKIOWrapper.download]]
-    sha256 = "3eea6aae9175da0673e3f7eb9fb2bddd19a652a21e45db44b245933270a20ec9"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "9570b34cde8da18e3df20e980754799a00b18dc31efe0049ac5c5366c369c141"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.aarch64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
 [[ITKIOWrapper]]
 arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "b30e31edd977d906ab3b20e77638e55b826fb636"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "33935bba25ac4baab7b8b1de9798d7b1b24bfa81"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[ITKIOWrapper.download]]
-    sha256 = "f32b7960814505bf29a6fb816c5a7c4d526183b2cfcf26b0d36e646a02826f78"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "f3eb744c51393f6b92e04cb453184ee656fbd2bbc279eac1711e45677ba3e5e8"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.aarch64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[ITKIOWrapper]]
 arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "1e3a36a75af4023a32f3daf032769c04b6be3bac"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ef3078842539b216d46292b1d70dd29a34983c37"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[ITKIOWrapper.download]]
-    sha256 = "af152e60f006de10d73038921dbd590a7276a9100accc1ec263108d1432aef08"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.aarch64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "b1146ef5fac03d8d37041951717eb9f0be0577200ca4cea019c4cf0451a359be"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.aarch64-linux-gnu-cxx03-julia_version+1.13.0.tar.gz"
+[[ITKIOWrapper]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "124729fd6e9bac719126ccece698a2d31e23d675"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[ITKIOWrapper.download]]
+    sha256 = "c87069b42defdb938ae1b71d6bf14bb4d59326750b83651517e733fdf7ca3ebb"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[ITKIOWrapper]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9504b256cf643f2bb64db08362376182f0da87c4"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[ITKIOWrapper.download]]
+    sha256 = "54cdd32794e61bb0aa8e7f8e3bf532c8b4aaf7a1d0a51219f123cfec9b4e9e47"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+[[ITKIOWrapper]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "54aee34ff327bf4d147c2103a6dd703a6f0f0ed4"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[ITKIOWrapper.download]]
+    sha256 = "0300659a27e197c3a5ba77c5ce59d5a9d62e95ee87977da13ea82dfb72a50c77"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[ITKIOWrapper]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "beb3be0cf2ab37d71ab943ecac932f0f7955b4af"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[ITKIOWrapper.download]]
+    sha256 = "53b2ad0c9a48db7807393d6e54f7c6dd887bd90a75d868c9ce1aa654d1adadb9"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.aarch64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[ITKIOWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "05f00446d84bc93dfc019cbec5243e92b60ef740"
+git-tree-sha1 = "854cd48047b5dd022d1c67b8db8d70124875d1ea"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[ITKIOWrapper.download]]
-    sha256 = "07dc2d51fd9a446d7198301a3be3a358cb2bfc9a476f798e78c3f97d83faf790"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.aarch64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "d5ed76319a95c835ebd5b2fa2aca08898338c5ae49314aedd64d89ef5016a741"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.aarch64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
 [[ITKIOWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "827ce899dd2de247164a480bcf77c58e7917ed69"
+git-tree-sha1 = "4e317e7e4203246f167f8bdcd43c1054196e416d"
 julia_version = "1.11.1"
 libc = "musl"
 os = "linux"
 
     [[ITKIOWrapper.download]]
-    sha256 = "388b63ed68e21d8d1c6a4f84dbd6ef9b9d44b65555d8865e153219c5671b492a"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.aarch64-linux-musl-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "f6483cbc48b71cb9c7ff17712b40496bb16f7067668a8cb144c3fd95a4862039"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.aarch64-linux-musl-cxx03-julia_version+1.11.1.tar.gz"
 [[ITKIOWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f57facf1868e291b68f6fca97c64a3ea0ad98b55"
+git-tree-sha1 = "c2df50b3f248ff234bc01f12a37a6da530d3f66b"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[ITKIOWrapper.download]]
-    sha256 = "7e67bba9321547daf8098c872f157a0c060f187894cf897877a31abd1d09a93d"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.aarch64-linux-musl-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "a88929a40e84e816fe3945e266a605c3accb53792ffc701cbb7e496e69a199b0"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.aarch64-linux-musl-cxx03-julia_version+1.12.0.tar.gz"
 [[ITKIOWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1602c388cd1ff7dfd8c02cf9209d9948d9c5737a"
+git-tree-sha1 = "64f85b6d21a916a97d90f019cdf8b4d79820b87c"
 julia_version = "1.13.0"
 libc = "musl"
 os = "linux"
 
     [[ITKIOWrapper.download]]
-    sha256 = "3635809dcee507f4ee3ff5a369813cef0bb7259fec32d7e37e3308749155f9ac"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.aarch64-linux-musl-cxx03-julia_version+1.13.0.tar.gz"
+    sha256 = "d4c4a9a3037056b83a42744b2cd3f117518a1f166f2b8cb4b6ebff1310321be7"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.aarch64-linux-musl-cxx03-julia_version+1.13.0.tar.gz"
 [[ITKIOWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5531cacfe9c732c7f4e11fb4488fd2d258e27d59"
+git-tree-sha1 = "23e7a2b5e55b92aee9fa41d55f6935dd103df7bf"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[ITKIOWrapper.download]]
-    sha256 = "63112d9021e5373f315c34c1137fe0501325d8762ae511fcd3a1a1145fba93e5"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "014e3c182d9b13e658ece5219308d10fbaaad0d864b35ee43a7bdfe4ebb7f93e"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
 [[ITKIOWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a46f14472ba03ed2177f063d724e2e2f6c65a778"
+git-tree-sha1 = "7124dc9370f23a6a5a0b57a89ed7f17bf9ae6bd5"
 julia_version = "1.11.1"
 libc = "musl"
 os = "linux"
 
     [[ITKIOWrapper.download]]
-    sha256 = "42bc1c6f1891d4fce5c3ae59465647f16ec6ed20ed31e873967805b12989ab53"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.aarch64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "4dfc271aa07087a146bff269c1798eeda2c96731bf06a48683cbc6d10a7b0d6e"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.aarch64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
 [[ITKIOWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0f5c7d5e9ad6c2447b8ad866dd283a041ef332af"
+git-tree-sha1 = "18e40df6513fc8ce2a3989fb5dadc476f45b070e"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[ITKIOWrapper.download]]
-    sha256 = "c9290276b38e84f058af3a3cefd9a4ebe1f36c28896d9d60d323705b9203f865"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "9c9a7333d482574fdf2d35e8cc3b48c6094339e3c009b8515cd6aed5bf1c4902"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
 [[ITKIOWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "95f4a8139967a3caa1287c060d0c8b17c0267539"
+git-tree-sha1 = "86681a73a238d94a5b09ddaca8d1c503b5e5dada"
 julia_version = "1.13.0"
 libc = "musl"
 os = "linux"
 
     [[ITKIOWrapper.download]]
-    sha256 = "893e1511934e38a77eb47086f35b84afb27c30c5d18320d3ae61b7c062aaacd3"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.aarch64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "0b97ea9873848c2f05c34d86f6dc740925e464b5d58a97ad3b21f4f731e065a2"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.aarch64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
 [[ITKIOWrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5bdf776d74ff0de35d5316501774bb2673bcd785"
+git-tree-sha1 = "b5e67455fb938bc4c92fa221f980196467509456"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[ITKIOWrapper.download]]
-    sha256 = "abdea41cc8829e3056f30f760cf81f0ea6772f3e90aa4ee1d5e7df45ec73c5da"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "7ba7a41ee5488c38e600819c7550e0f2dfaf1adedc0bb8685e22cb657590257a"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[ITKIOWrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "15495f06b8ee01511f843477ae81e480004251c0"
+git-tree-sha1 = "03097ecde9051ea874527f1a4fa46ca2ccfd248f"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[ITKIOWrapper.download]]
-    sha256 = "79cf816d62a534e2918df8f1e2ae2e71c402c3ffb5b6333bf31c40a46400a420"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.powerpc64le-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "c0faadc7a1cba1951083ab8d79ee9eafd00c1a701153c5e6a8c8a808ce103b47"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.powerpc64le-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
 [[ITKIOWrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1d3cb3a685fce8ee74e9865ae733223741f49e37"
+git-tree-sha1 = "69988769181823c9d5b63a92e4baae5530bc9016"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[ITKIOWrapper.download]]
-    sha256 = "bbd2ac1c26de01b8e18a9486c01473041b09b6efa6135353bf611bb7a24a452f"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.powerpc64le-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "29856f7af64d956320cca3f3b90225708df4abb1cc5e2580b1a74b4a0b920a15"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.powerpc64le-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[ITKIOWrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f9c844ffd3b3767490c695587fdd6290437a4bcf"
+git-tree-sha1 = "2822422a12e6fe5f49e6d5d29e161877e5249339"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[ITKIOWrapper.download]]
-    sha256 = "705bbd4488330f067d863e40f0d94ca39b118bb687e808400d3b299c5cf61123"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.powerpc64le-linux-gnu-cxx03-julia_version+1.13.0.tar.gz"
+    sha256 = "03d69ad4f06b16d67e627f82ce30432eada492e07ca684535cc655fa646d66cb"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.powerpc64le-linux-gnu-cxx03-julia_version+1.13.0.tar.gz"
 [[ITKIOWrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "49a7931d8f93e8f7db6e69cbdb62edb7e4439963"
+git-tree-sha1 = "b3cf6d8006f89c405194b2b460642de0a77e0dcb"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[ITKIOWrapper.download]]
-    sha256 = "31696d201e7d472dd53f0df834ad4463052d4d19a6f3d0528a93b60defb72be2"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "8a47cfdef929bc000ccd0d10fcdb295e77b3a11fdfeda8300725651e5a3ae514"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[ITKIOWrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "85525b61f34607523764cee36c6077fbb6215b8b"
+git-tree-sha1 = "ba009e33f0dbcc795bfa20fd1efb89acf21cafdc"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[ITKIOWrapper.download]]
-    sha256 = "8b4ef778c836e8ee202d2bb7b0f7e5c1f8ea6c06ce85e27b8bb36ae36cf78a01"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.powerpc64le-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "e3c0a0aeb9c699b7e2ffc540a127bc6edce1b3d4521a85d15c4e5630337db322"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.powerpc64le-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[ITKIOWrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "51ea6fd26c8cc57a79bd80be0f0d1215b444f989"
+git-tree-sha1 = "ee814d2f66e33d98ea7b8924b6d5e7bda899bd5e"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[ITKIOWrapper.download]]
-    sha256 = "1f66051a3fbb92d0c4a6adb6f68a47353d6586889903b28eef457b27a91a517a"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "ad2ca69bd1a3798c001a4d0f5ddd23cdfdef1154ff7b64258307c6d76a85f48a"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[ITKIOWrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8453ab8f123838fc95e804bf68339408a00c81ed"
+git-tree-sha1 = "2327e8f3777ede2d3f1dd2bea01ee1974dffab83"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[ITKIOWrapper.download]]
-    sha256 = "c265d304407642ebc7d6b7daacfc2b4c1699e2a67618ade9b3815ed82474742b"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.powerpc64le-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "d7d1dee7a545e99a99fe1f914a8f7c8bbf58009fc4fe14a3d636d5eafc719b21"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.powerpc64le-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[ITKIOWrapper]]
 arch = "x86_64"
-git-tree-sha1 = "922c17147ec31cf0358bc6c7969bf0ebe4d4d36d"
+git-tree-sha1 = "0767e22cf398092f486156d20444429e98bff285"
 julia_version = "1.10.0"
 os = "macos"
 
     [[ITKIOWrapper.download]]
-    sha256 = "1ba5a4c566686b790ba7339c497bf180ba573a261a64607cdc8dc78e635efb69"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "0ecdaa1ea5880368d65acdaf3d55a2e14e4ce835aef25587c5f6da133a5d8db3"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[ITKIOWrapper]]
 arch = "x86_64"
-git-tree-sha1 = "997fbb6d49afb21e883ba0c93775ecc6ec89db79"
+git-tree-sha1 = "9753607c56ae55ec687d6762536abb4503337634"
 julia_version = "1.11.1"
 os = "macos"
 
     [[ITKIOWrapper.download]]
-    sha256 = "8d0fbbcf595f3ab90c2a60f9f4a531095977b236e7bb854b47b1ec6ef54a3cf8"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
+    sha256 = "0b71c3690ba3d90eb83302d90f9d2516679c9a3fc73f61fa00d08447c0b5a8a2"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[ITKIOWrapper]]
 arch = "x86_64"
-git-tree-sha1 = "7d92304a84cad825d024f5e4b0afb61cc12ae3f3"
+git-tree-sha1 = "03824c0760cf7a34809703b2a9a75558cd8260fd"
 julia_version = "1.12.0"
 os = "macos"
 
     [[ITKIOWrapper.download]]
-    sha256 = "09d68611be2275db555c49b86ef624afdf09a0922cf8e336ecfd19e9da27aae0"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "6c16f07f74b5ce5d479f03bb34f539abf59c7918847ad49b63d98bcdd08dcc54"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[ITKIOWrapper]]
 arch = "x86_64"
-git-tree-sha1 = "dc4231032c8dad1e597b2575f9b5648bafa0e820"
+git-tree-sha1 = "3903ad31c9bbfa45e932045dd4b68c11a0daaad8"
 julia_version = "1.13.0"
 os = "macos"
 
     [[ITKIOWrapper.download]]
-    sha256 = "a1c991817993ce7f9d486f141b61323bddb9b38dccff6c15c3aac53dd0c7ae61"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.x86_64-apple-darwin-julia_version+1.13.0.tar.gz"
+    sha256 = "8b69402e7bb3ddd80c41cfbd633474dd319931dae5a4f5695b06d129b19f8e44"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.x86_64-apple-darwin-julia_version+1.13.0.tar.gz"
 [[ITKIOWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7136130bc8920d72f54147dbe94bc035c1a69d31"
+git-tree-sha1 = "22800f44a9686956e549acf9e43e1fb0f13e9156"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[ITKIOWrapper.download]]
-    sha256 = "158b0309c7013b37a61d94632e91fda6aa3739e8f52c3ebdf68f83b0256657b8"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "02b5439d71ae14b22cd0dcd9e3e8d158482051dfd95b93c63f6f7a594cb15c8a"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[ITKIOWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f8cf4474b42c281913ac80cccd77538ef9d4687f"
+git-tree-sha1 = "cc0dcbbd9f1c95d55a5856e33c476eb8c5bbb558"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[ITKIOWrapper.download]]
-    sha256 = "33f4c356f1432f89c5478921c6a99fadda29bbe6c4d84abda10d4bb717df06bc"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.x86_64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "3ff91d43be3fceaa01280fda8d160f163ee9be44eb6d899e77aa64ecbcd087c9"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.x86_64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
 [[ITKIOWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6230ba3fbe8cf044d9ee70a2fa996ce157d7b0ce"
+git-tree-sha1 = "414838330b386fbbc66ac7a59ec3bfdab21cf7d4"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[ITKIOWrapper.download]]
-    sha256 = "f8184746d932deb06821cab212fde30a8705bf304a38d6b9004340157ede7ac9"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.x86_64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "556f5e3c3bee615e8a628319073d0daed829b410a946f35a65d4fa6c694a41e9"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.x86_64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[ITKIOWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "dc208480c1feefa4de71185ebbefaee721b43a26"
+git-tree-sha1 = "fb2cb2d220a5484c0407eb2d4ba3d38fa49b04ff"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[ITKIOWrapper.download]]
-    sha256 = "bdbe16ef5ee02a9ede95917ba70d732a2b96ea40344de9810a4ff743e2a988e9"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.x86_64-linux-gnu-cxx03-julia_version+1.13.0.tar.gz"
+    sha256 = "81c289cf393e4ab5c21795e3364f6c67fcb2b70a441eb61a1f7c9b643a800397"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.x86_64-linux-gnu-cxx03-julia_version+1.13.0.tar.gz"
 [[ITKIOWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1b9499b0d6afe5fbbe2a18c75b29b6154dcf4ad1"
+git-tree-sha1 = "cf0da224668a113b6a94a2221a143c3bd87321ff"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[ITKIOWrapper.download]]
-    sha256 = "6d5d7753bf7b630a3696a365f93b3e5b6bf05ef538eed2ad98dcaa4534e03ea5"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "b59103c84db005295416bd6f51c1b2bbcb15938a34984f1a116d2fb38bdef6c8"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[ITKIOWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "85ef41fd467b15db1e292f6e81e0889b4cdb06f2"
+git-tree-sha1 = "5269b9ce8d810678f5a5479ddca03b996907ec09"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[ITKIOWrapper.download]]
-    sha256 = "f5cc4d7095cc9675dba5fe60d62d782fbe17ca9a87348bfc7df48cb7642fcec6"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "baff0855f4a9b010f2bb1d9d17e59c04031ebf254dee788b49daa54c7d092797"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[ITKIOWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f6fe627b4e6a523eec83b623350ff8fa23829273"
+git-tree-sha1 = "488bb9c7cce644807a088d9c215af9dfcd520e06"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[ITKIOWrapper.download]]
-    sha256 = "fac5017075b3caceb1831089b5c7a01e50732ef7cd845c93f0f270d38d25dcb7"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "054f772f41e0473e57a0a312e321f8c2d203ff729d7e583402dbe8a773469638"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[ITKIOWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "699b327cfb44628365a8c6e73a3058921a149ba8"
+git-tree-sha1 = "8718234da4472889d5b6820aaa5a6b5936fc8ed6"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[ITKIOWrapper.download]]
-    sha256 = "bf1cc39a789f5f61b7f319a3af1b5983bdce0331401b951d260c70f607d9ad20"
-    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v2.0.0+0/ITKIOWrapper.v2.0.0.x86_64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "77b58775fdd06088b06fd10f937ab0007e95eeb185897d98879aa4422ef042f0"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.x86_64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+[[ITKIOWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3079f39e0a6de20d77bd6078b463d290157abc2e"
+julia_version = "1.10.0"
+os = "windows"
+
+    [[ITKIOWrapper.download]]
+    sha256 = "7464111f1850a863384e820c8a3658e02b7dff7073614ce9a584963d6b6af67f"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.x86_64-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
+[[ITKIOWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6dc7b677b41b70e2a94549ed1023536b39d0170d"
+julia_version = "1.11.1"
+os = "windows"
+
+    [[ITKIOWrapper.download]]
+    sha256 = "04effdb9659f2d0ab277e8f6e2119489d6b77608e2974c173230db53ba0ac223"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.x86_64-w64-mingw32-cxx03-julia_version+1.11.1.tar.gz"
+[[ITKIOWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0c239ed5b7ae9b7ab0eb98d6a6686d8e1c8a8d91"
+julia_version = "1.12.0"
+os = "windows"
+
+    [[ITKIOWrapper.download]]
+    sha256 = "3a3fabfc19430fba1d57b46cbe62f200e346920dbfa7b340899ddd7f7dd0219c"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.x86_64-w64-mingw32-cxx03-julia_version+1.12.0.tar.gz"
+[[ITKIOWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0c239ed5b7ae9b7ab0eb98d6a6686d8e1c8a8d91"
+julia_version = "1.13.0"
+os = "windows"
+
+    [[ITKIOWrapper.download]]
+    sha256 = "3a3fabfc19430fba1d57b46cbe62f200e346920dbfa7b340899ddd7f7dd0219c"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.x86_64-w64-mingw32-cxx03-julia_version+1.13.0.tar.gz"
+[[ITKIOWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4ef047e8d513aceb47297cd44a5285ce43c5ce79"
+julia_version = "1.10.0"
+os = "windows"
+
+    [[ITKIOWrapper.download]]
+    sha256 = "a9d787c34760e9617f48298925e733bcace0ffcc4ba1d28c38c3b2140e302e90"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+[[ITKIOWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "93213ef1753e66b5ffd2d5b1a8412e57999054b7"
+julia_version = "1.11.1"
+os = "windows"
+
+    [[ITKIOWrapper.download]]
+    sha256 = "46cdbed5b2ea61515be0f1e289835f86d39b5ca475d9478a6f6991b12a561543"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.x86_64-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
+[[ITKIOWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "400176140f61c056060eb53cffdb93df7a57e10e"
+julia_version = "1.12.0"
+os = "windows"
+
+    [[ITKIOWrapper.download]]
+    sha256 = "02b88b5c828b0137339d355be7869444fff1823a06cd74d4277d39186063eea7"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+[[ITKIOWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "400176140f61c056060eb53cffdb93df7a57e10e"
+julia_version = "1.13.0"
+os = "windows"
+
+    [[ITKIOWrapper.download]]
+    sha256 = "02b88b5c828b0137339d355be7869444fff1823a06cd74d4277d39186063eea7"
+    url = "https://github.com/JuliaBinaryWrappers/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.x86_64-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
